@@ -2,7 +2,7 @@ import { createColumnHelper, flexRender, getCoreRowModel, getFilteredRowModel, g
 import { USERS } from "../data";
 import { useState } from "react";
 import DownloadBtn from "./DownloadBtn";
-import { DebouncedInput } from "./DebouncedInput";
+import  DebouncedInput  from "./DebouncedInput";
 import { SearchIcon } from "../Icons/Icons";
 
 
